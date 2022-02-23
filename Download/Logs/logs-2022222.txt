@@ -1,0 +1,4 @@
+===> [Game updating] process STARTED! <===
+[Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
+===> [Game updating] process STARTED! <===
+[Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
